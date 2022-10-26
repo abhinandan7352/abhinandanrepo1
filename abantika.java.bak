@@ -1,0 +1,12 @@
+class abantika{
+public static void main(String args[]){
+ String name=args[0];
+ String add=args[1];
+ int roll=args[2];
+ String batch=args[3];
+ System.out.println("My name:"+args[0]);
+ System.out.println("My add:"+args[1]);
+ System.out.println("My roll:"+args[2]);
+ System.out.println("My batch:"+args[3]);
+}
+}
